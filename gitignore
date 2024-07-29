@@ -1,0 +1,52 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.bak
+*.backup
+*.class
+*.dll
+*.exe
+*.log
+*.mex
+*.mexa64
+*.mexw64
+*.mexa64
+*.mexw32
+*.p
+*.save
+*.slxc
+*.swp
+
+# MATLAB preference files
+*.mat
+
+# MATLAB code
+*.m~
+
+# MATLAB files that should not be included
+*.m~  # Backup files
+
+# Build results
+build/
+bin/
+target/
+
+# MATLAB cache files
+*.mex*
+*.pdb
+
+# Custom build directories
+*.build/
+*.tmp/
+*.cache/
+*.debug/
+*.project/
+
+# Folder for MATLAB Code Coverage
+*.cov/
+
+# Other files
+*.cvs
+*.svn
+*.git
+
